@@ -6,7 +6,7 @@ This website showcases my background, technical skills, projects, and current le
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](#)
+[View My Portfolio](https://prakhar140.github.io/my-portfolio/)
 
 ## 👨‍💻 About
 
